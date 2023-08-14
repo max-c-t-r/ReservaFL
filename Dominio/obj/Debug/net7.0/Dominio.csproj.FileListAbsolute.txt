@@ -1,0 +1,12 @@
+D:\vs\ReservaFL\Dominio\bin\Debug\net7.0\Dominio.deps.json
+D:\vs\ReservaFL\Dominio\bin\Debug\net7.0\Dominio.dll
+D:\vs\ReservaFL\Dominio\bin\Debug\net7.0\Dominio.pdb
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.dll
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\Dominio.pdb
+D:\vs\ReservaFL\Dominio\obj\Debug\net7.0\ref\Dominio.dll
