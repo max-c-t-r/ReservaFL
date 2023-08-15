@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ReservaFL
 build_property.RootNamespace = ReservaFL
-build_property.ProjectDir = D:\vs\ReservaFL\ReservaFL\
+build_property.ProjectDir = D:\vs\ReservaFL - TAF\ReservaFL\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\vs\ReservaFL\ReservaFL
+build_property.MSBuildProjectDirectory = D:\vs\ReservaFL - TAF\ReservaFL
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Access/Login.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Access/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Access/Register.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Access/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Home/Index.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Dashboard/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Dashboard/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Home/Privacy.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Shared/Error.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/_ViewImports.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/_ViewStart.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs/ReservaFL/ReservaFL/Views/Shared/_Layout.cshtml]
+[D:/vs/ReservaFL - TAF/ReservaFL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b6h3ta9oxc

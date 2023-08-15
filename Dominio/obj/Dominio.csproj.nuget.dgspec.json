@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj": {}
+    "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj": {
+    "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\vs\\ReservaFL\\Dominio\\obj\\",
+        "outputPath": "D:\\vs\\ReservaFL - TAF\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs\\ReservaFL\\ReservaFL\\ReservaFL.csproj": {}
+    "D:\\vs\\ReservaFL - TAF\\ReservaFL\\ReservaFL.csproj": {}
   },
   "projects": {
-    "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj": {
+    "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\vs\\ReservaFL\\Dominio\\obj\\",
+        "outputPath": "D:\\vs\\ReservaFL - TAF\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\vs\\ReservaFL\\ReservaFL\\ReservaFL.csproj": {
+    "D:\\vs\\ReservaFL - TAF\\ReservaFL\\ReservaFL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs\\ReservaFL\\ReservaFL\\ReservaFL.csproj",
+        "projectUniqueName": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\ReservaFL.csproj",
         "projectName": "ReservaFL",
-        "projectPath": "D:\\vs\\ReservaFL\\ReservaFL\\ReservaFL.csproj",
+        "projectPath": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\ReservaFL.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\",
+        "outputPath": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\vs\\ReservaFL\\Dominio\\Dominio.csproj"
+              "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\vs\\ReservaFL - TAF\\Dominio\\Dominio.csproj"
               }
             }
           }

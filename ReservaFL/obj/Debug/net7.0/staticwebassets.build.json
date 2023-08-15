@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wv6sJ3XTq285C0mMR61IisY5vEkWlB2HOiJb559VBu8=",
+  "Hash": "YN2+voFoQJSira20Fw2BmUdKcCG5B0X3XPi1OIssMRc=",
   "Source": "ReservaFL",
   "BasePath": "_content/ReservaFL",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ReservaFL\\wwwroot",
       "Source": "ReservaFL",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ReservaFL.styles.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ReservaFL.styles.css",
       "SourceId": "ReservaFL",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "ReservaFL.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ReservaFL.styles.css"
+      "OriginalItemSpec": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ReservaFL.styles.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ReservaFL.bundle.scp.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ReservaFL.bundle.scp.css",
       "SourceId": "ReservaFL",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "ReservaFL.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\vs\\ReservaFL\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ReservaFL.bundle.scp.css"
+      "OriginalItemSpec": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ReservaFL.bundle.scp.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme.css",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme.css.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme.css.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.css.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme.min.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme.min.css",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.min.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme.min.css.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme.min.css.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme.min.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.min.css.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.css",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme-rtl.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme-rtl.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.css.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme-rtl.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme-rtl.css.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.min.css",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme-rtl.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme-rtl.min.css"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/css/theme-rtl.min.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme-rtl.min.css.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\apple-store.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\apple-store.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/apple-store.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-store.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\category\\icon1.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\category\\icon1.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/category/icon1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\category\\icon1.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\category\\icon2.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\category\\icon2.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/category/icon2.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\category\\icon2.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\category\\icon3.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\category\\icon3.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/category/icon3.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\category\\icon3.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\category\\icon4.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\category\\icon4.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/category/icon4.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\category\\icon4.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\category\\shape.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\category\\shape.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/category/shape.svg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\category\\shape.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\cta\\cta-shape.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\cta\\cta-shape.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/cta/cta-shape.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cta\\cta-shape.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\cta\\mail.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\cta\\mail.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/cta/mail.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cta\\mail.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\cta\\send.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\cta\\send.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/cta/send.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cta\\send.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\cta\\shape-bg1.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\cta\\shape-bg1.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/cta/shape-bg1.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cta\\shape-bg1.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\cta\\shape-bg2.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\cta\\shape-bg2.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/cta/shape-bg2.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cta\\shape-bg2.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest1.jpg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest1.jpg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/dest/dest1.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dest\\dest1.jpg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest2.jpg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest2.jpg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/dest/dest2.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dest\\dest2.jpg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest3.jpg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\dest\\dest3.jpg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/dest/dest3.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dest\\dest3.jpg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\dest\\navigation.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\dest\\navigation.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/dest/navigation.svg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dest\\navigation.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\dest\\shape.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\dest\\shape.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/dest/shape.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dest\\shape.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/android-chrome-192x192.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/android-chrome-512x512.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/apple-touch-icon.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\apple-touch-icon.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/browserconfig.xml",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\browserconfig.xml"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon.ico",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/favicon.ico",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\favicon.ico"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/favicon-16x16.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\favicon-16x16.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/favicon-32x32.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\manifest.json",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/manifest.json",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\manifest.json"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/mstile-150x150.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\mstile-150x150.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/favicons/site.webmanifest",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicons\\site.webmanifest"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\hero\\hero-bg.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\hero\\hero-bg.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/hero/hero-bg.svg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\hero-bg.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\hero\\hero-img.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\hero\\hero-img.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/hero/hero-img.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\hero-img.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\hero\\play.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\hero\\play.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/hero/play.svg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\play.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\hero\\shape.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\hero\\shape.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/hero/shape.svg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\shape.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\icons\\down.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\icons\\down.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/icons/down.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\down.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\icons\\up.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\icons\\up.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/icons/up.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\up.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\logo.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\logo.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/logo.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\logo2.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\logo2.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/logo2.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo2.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\partner\\1.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\partner\\1.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/partner/1.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partner\\1.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\partner\\2.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\partner\\2.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/partner/2.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partner\\2.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\partner\\3.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\partner\\3.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/partner/3.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partner\\3.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\partner\\4.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\partner\\4.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/partner/4.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partner\\4.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\partner\\5.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\partner\\5.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/partner/5.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partner\\5.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\play-store.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\play-store.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/play-store.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\play-store.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\bg.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\bg.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/bg.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\bg.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\booking-img.jpg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\booking-img.jpg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/booking-img.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\booking-img.jpg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\building.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\building.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/building.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\building.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\favorite-placeholder.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\favorite-placeholder.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/favorite-placeholder.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\favorite-placeholder.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\heart.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\heart.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/heart.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\heart.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\leaf.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\leaf.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/leaf.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\leaf.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\map.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\map.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/map.svg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\map.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\selection.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\selection.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/selection.svg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\selection.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\send.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\send.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/send.svg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\send.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\taxi.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\taxi.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/taxi.svg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\taxi.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\steps\\water-sport.svg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\steps\\water-sport.svg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/steps/water-sport.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\steps\\water-sport.svg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/testimonial/author.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial\\author.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author2.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author2.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/testimonial/author2.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial\\author2.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author3.png",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\img\\testimonial\\author3.png",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/img/testimonial/author3.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial\\author3.png"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\js\\bootstrap-navbar.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\js\\bootstrap-navbar.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/js/bootstrap-navbar.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap-navbar.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\js\\theme.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\js\\theme.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/js/theme.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\js\\theme.js.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\js\\theme.js.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/js/theme.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme.js.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\js\\theme.min.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\js\\theme.min.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/js/theme.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme.min.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\js\\theme.min.js.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\js\\theme.min.js.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/js/theme.min.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme.min.js.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\video\\.gitkeep",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\video\\.gitkeep",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/video/.gitkeep",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\.gitkeep"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\video\\beach.jpg",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\video\\beach.jpg",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/video/beach.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\beach.jpg"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\video\\beach.mp4",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\video\\beach.mp4",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/video/beach.mp4",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\beach.mp4"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\assets\\video\\beach.webm",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\assets\\video\\beach.webm",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "assets/video/beach.webm",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\beach.webm"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\favicon.ico",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\favicon.ico",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "vendors/bootstrap/bootstrap.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "vendors/bootstrap/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\vendors\\fontawesome\\all.min.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "vendors/fontawesome/all.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\fontawesome\\all.min.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\vendors\\is\\is.min.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\vendors\\is\\is.min.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "vendors/is/is.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\is\\is.min.js"
     },
     {
-      "Identity": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\vendors\\popperjs\\popper.min.js",
+      "Identity": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\vendors\\popperjs\\popper.min.js",
       "SourceId": "ReservaFL",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\vs\\ReservaFL\\ReservaFL\\wwwroot\\",
+      "ContentRoot": "D:\\vs\\ReservaFL - TAF\\ReservaFL\\wwwroot\\",
       "BasePath": "_content/ReservaFL",
       "RelativePath": "vendors/popperjs/popper.min.js",
       "AssetKind": "All",
